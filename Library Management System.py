@@ -1,9 +1,3 @@
-'''
-
-Project: Final Project
-Collaborators: Rohan Gupta, Harshit Jain, Pranav Bhave, Vansh Koul
-
-'''
 import os
 os.chdir('C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\FILE HANDLING FILES')
 
